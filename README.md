@@ -1,3 +1,3 @@
 # tugas-2-nwdc-2022
 
-Build a landing page with HTML and Taikwind CSS.
+Creating a landing page with HTML and Tailwind CSS.
